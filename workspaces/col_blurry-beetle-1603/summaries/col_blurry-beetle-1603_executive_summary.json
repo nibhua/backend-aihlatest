@@ -1,0 +1,21 @@
+{
+  "collection_id": "col_blurry-beetle-1603",
+  "summary_type": "executive",
+  "summary": {
+    "summary": "```json\n{\n    \"overview\": \"This document collection offers a comprehensive guide to the South of France, covering its major cities, rich culinary traditions, diverse range of activities and experiences, and essential tips for planning a successful and enjoyable trip. It highlights the region's stunning landscapes, Mediterranean coastline, picturesque villages, and vibrant cultural offerings, providing a holistic resource for potential travelers.\",\n    \"key_points\": [\n        \"Detailed exploration of major cities and their unique characteristics.\",\n        \"An in-depth look at the region's diverse and renowned culinary landscape.\",\n        \"A wide array of activities and experiences, from coastal adventures to village exploration.\",\n        \"Practical advice and planning tips for a comfortable and enjoyable visit.\"\n    ],\n    \"main_focus\": \"Providing a holistic travel guide for exploring and experiencing the South of France.\",\n    \"business_value\": \"This collection serves as an invaluable resource for travelers, enabling them to plan comprehensive and enriching trips to the South of France. For tourism-related businesses, it offers a structured overview of key attractions, activities, and visitor considerations, potentially aiding in marketing and service development.\",\n    \"quick_insights\": [\n        \"The South of France offers a multifaceted travel experience encompassing vibrant cities, exquisite cuisine, and diverse activities.\",\n        \"Effective planning, including understanding cities, activities, and local tips, is key to maximizing a visit.\"\n    ]\n}\n```",
+    "parse_error": true,
+    "note": "Response was not in JSON format"
+  },
+  "document_count": 4,
+  "total_chunks": 64,
+  "generated_at": "2025-09-02T02:06:59.049424",
+  "metadata": {
+    "model": "gemini-2.5-flash",
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf"
+    ]
+  }
+}

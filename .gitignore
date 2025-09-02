@@ -1,0 +1,47 @@
+# --- your request
+models/
+adobe/
+*.zip
+*.tar.gz
+# common ML/Backend stuff
+core/models/
+core/vector_store/
+checkpoints/
+data/
+datasets/
+logs/
+*.log
+
+# model weights / artifacts
+*.pt
+*.bin
+*.ckpt
+*.h5
+*.onnx
+*.pkl
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ipynb_checkpoints/
+
+# Node (if any tooling here uses it)
+node_modules/
+pnpm-lock.yaml
+npm-debug.log*
+
+# Env / secrets
+.env
+.env.*
+*.env
+
+# OS/IDE
+.DS_Store
+.idea/
+.vscode/

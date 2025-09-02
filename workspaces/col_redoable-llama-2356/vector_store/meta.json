@@ -1,0 +1,7 @@
+{
+  "collection_id": "col_redoable-llama-2356",
+  "model_name_or_path": "E:\\test\\GRANDFINALETESTING\\AIH-VAL\\backend\\models\\e5-base-v2",
+  "dim": 768,
+  "created_at": "2025-09-02 01:27:55",
+  "num_chunks": 427
+}
